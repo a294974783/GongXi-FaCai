@@ -19,7 +19,7 @@
 
 .usermotto {
   font-size: 60px;
-  margin: 160px 0;
+  margin: 320rpx 0 200rpx;
 }
 
 .classname {
